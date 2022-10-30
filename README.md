@@ -28,3 +28,15 @@ Some of the code-cells are "non-editable" which means that you are supposed to r
 
  - [Problems 1 and 2 (10 points)](Exercise-1-problem-1-2.ipynb)
  - [Problems 3 and 4 (10 points)](Exercise-1-problem-3-4.ipynb)
+
+## Grading
+
+- Problem 1: 5/5 points 
+   - Optional task Problem 1.2: Testing that input contains either tuples or Point -objects for functions creating the LineString and Polygon geometries does not work as expected using `all()` function. `all()` only tests whether all values in the input container are True. To fix this, you could e.g. iterate over the inputs and test one item at a time whether the type is correct.
+- Problem 2: 5/5 points
+- Problem 3: 5/5 points
+- Problem 4: 5/5 points
+
+**Total: 20/20**
+
+Comments: Excellent work!
